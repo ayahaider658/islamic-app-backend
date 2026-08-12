@@ -1,0 +1,44 @@
+# ─────────────────────────────────────────────
+#  render.yaml — Render.com deployment manifest
+#  Docs: https://render.com/docs/yaml-spec
+# ─────────────────────────────────────────────
+
+services:
+  - type: web
+    name: islamic-app-api
+    runtime: node
+    region: frankfurt          # Closest to the Middle East
+    plan: free                 # Upgrade to starter/standard for production SLAs
+
+    # Build: compile TypeScript → JavaScript
+    buildCommand: npm ci && npm run build
+
+    # Start: run compiled output
+    startCommand: npm start
+
+    # Health-check path — Render uses this to verify the service is up
+    healthCheckPath: /health
+
+    # Auto-deploy on every push to the main branch
+    autoDeploy: true
+
+    envVars:
+      - key: NODE_ENV
+        value: production
+
+      - key: PORT
+        value: 3000
+
+      # Default prayer location — Sanaa, Yemen
+      - key: DEFAULT_LATITUDE
+        value: "15.3694"
+
+      - key: DEFAULT_LONGITUDE
+        value: "44.1910"
+
+      - key: DEFAULT_CALCULATION_METHOD
+        value: MuslimWorldLeague
+
+      # Replace with specific origins in production (comma-separated)
+      - key: ALLOWED_ORIGINS
+        value: "*"

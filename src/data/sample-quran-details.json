@@ -1,0 +1,162 @@
+{
+  "surahs": [
+    {
+      "number": 1,
+      "name": "الفاتحة",
+      "englishName": "Al-Faatiha",
+      "englishNameTranslation": "The Opening",
+      "numberOfAyahs": 7,
+      "revelationType": "Meccan",
+      "ayahs": [
+        {
+          "number": 1,
+          "numberInSurah": 1,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "juz": 1,
+          "page": 1,
+          "hizbQuarter": 1
+        },
+        {
+          "number": 2,
+          "numberInSurah": 2,
+          "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "juz": 1,
+          "page": 1,
+          "hizbQuarter": 1
+        },
+        {
+          "number": 3,
+          "numberInSurah": 3,
+          "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+          "juz": 1,
+          "page": 1,
+          "hizbQuarter": 1
+        },
+        {
+          "number": 4,
+          "numberInSurah": 4,
+          "text": "مَالِكِ يَوْمِ الدِّينِ",
+          "juz": 1,
+          "page": 1,
+          "hizbQuarter": 1
+        },
+        {
+          "number": 5,
+          "numberInSurah": 5,
+          "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+          "juz": 1,
+          "page": 1,
+          "hizbQuarter": 1
+        },
+        {
+          "number": 6,
+          "numberInSurah": 6,
+          "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+          "juz": 1,
+          "page": 1,
+          "hizbQuarter": 1
+        },
+        {
+          "number": 7,
+          "numberInSurah": 7,
+          "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+          "juz": 1,
+          "page": 1,
+          "hizbQuarter": 1
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "البقرة",
+      "englishName": "Al-Baqara",
+      "englishNameTranslation": "The Cow",
+      "numberOfAyahs": 286,
+      "revelationType": "Medinan",
+      "ayahs": [
+        {
+          "number": 8,
+          "numberInSurah": 1,
+          "text": "الم",
+          "juz": 1,
+          "page": 2,
+          "hizbQuarter": 1
+        },
+        {
+          "number": 9,
+          "numberInSurah": 2,
+          "text": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+          "juz": 1,
+          "page": 2,
+          "hizbQuarter": 1
+        },
+        {
+          "number": 10,
+          "numberInSurah": 3,
+          "text": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+          "juz": 1,
+          "page": 2,
+          "hizbQuarter": 1
+        },
+        {
+          "number": 11,
+          "numberInSurah": 4,
+          "text": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+          "juz": 1,
+          "page": 2,
+          "hizbQuarter": 1
+        },
+        {
+          "number": 12,
+          "numberInSurah": 5,
+          "text": "أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+          "juz": 1,
+          "page": 2,
+          "hizbQuarter": 1
+        }
+      ]
+    },
+    {
+      "number": 112,
+      "name": "الإخلاص",
+      "englishName": "Al-Ikhlaas",
+      "englishNameTranslation": "Sincerity",
+      "numberOfAyahs": 4,
+      "revelationType": "Meccan",
+      "ayahs": [
+        {
+          "number": 6222,
+          "numberInSurah": 1,
+          "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+          "juz": 30,
+          "page": 604,
+          "hizbQuarter": 240
+        },
+        {
+          "number": 6223,
+          "numberInSurah": 2,
+          "text": "اللَّهُ الصَّمَدُ",
+          "juz": 30,
+          "page": 604,
+          "hizbQuarter": 240
+        },
+        {
+          "number": 6224,
+          "numberInSurah": 3,
+          "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "juz": 30,
+          "page": 604,
+          "hizbQuarter": 240
+        },
+        {
+          "number": 6225,
+          "numberInSurah": 4,
+          "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+          "juz": 30,
+          "page": 604,
+          "hizbQuarter": 240
+        }
+      ]
+    }
+  ]
+}

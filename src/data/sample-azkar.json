@@ -1,0 +1,82 @@
+{
+  "azkar": [
+    {
+      "id": 1,
+      "category": "Morning Azkar",
+      "slug": "morning",
+      "icon": "morning_icon",
+      "items": [
+        {
+          "id": 1,
+          "text": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَٰهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ.",
+          "translation": "We have reached the morning and at this very time all sovereignty belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah, alone, without partner. To Him belongs all sovereignty and praise, and He is over all things omnipotent.",
+          "transliteration": "Asbahna wa asbahal mulku lillah, walhamdu lillah, la ilaha illallahu wahdahu la sharika lah, lahul mulku walahul hamd, wahuwa 'ala kulli shay'in qadir.",
+          "repetitions": 1,
+          "benefit": "Whoever says this in the morning has given thanks for that day, and whoever says it in the evening has given thanks for that night.",
+          "reference": "Abu Dawud 4/317"
+        },
+        {
+          "id": 2,
+          "text": "اللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ النُّشُورُ.",
+          "translation": "O Allah, by Your leave we have reached the morning and by Your leave we have reached the evening, by Your leave we live and die and unto You is our resurrection.",
+          "transliteration": "Allahumma bika asbahna, wa bika amsayna, wa bika nahya, wa bika namutu, wa ilaykan nushur.",
+          "repetitions": 1,
+          "benefit": "Said in the morning.",
+          "reference": "At-Tirmidhi 5/466, Abu Dawud 4/317"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Evening Azkar",
+      "slug": "evening",
+      "icon": "evening_icon",
+      "items": [
+        {
+          "id": 3,
+          "text": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَٰهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ.",
+          "translation": "We have reached the evening and at this very time all sovereignty belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah, alone, without partner. To Him belongs all sovereignty and praise, and He is over all things omnipotent.",
+          "transliteration": "Amsayna wa amsal mulku lillah, walhamdu lillah, la ilaha illallahu wahdahu la sharika lah, lahul mulku walahul hamd, wahuwa 'ala kulli shay'in qadir.",
+          "repetitions": 1,
+          "benefit": "To be said in the evening.",
+          "reference": "Abu Dawud 4/317"
+        },
+        {
+          "id": 4,
+          "text": "اللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ الْمَصِيرُ.",
+          "translation": "O Allah, by Your leave we have reached the evening and by Your leave we have reached the morning, by Your leave we live and die and unto You is our return.",
+          "transliteration": "Allahumma bika amsayna, wa bika asbahna, wa bika nahya, wa bika namutu, wa ilaykal masir.",
+          "repetitions": 1,
+          "benefit": "Said in the evening.",
+          "reference": "At-Tirmidhi 5/466, Abu Dawud 4/317"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "After Prayer Azkar",
+      "slug": "after-prayer",
+      "icon": "prayer_icon",
+      "items": [
+        {
+          "id": 5,
+          "text": "أَسْتَغْفِرُ اللَّهَ",
+          "translation": "I seek the forgiveness of Allah.",
+          "transliteration": "Astaghfirullah",
+          "repetitions": 3,
+          "benefit": "Said three times after every obligatory prayer.",
+          "reference": "Muslim 1/414"
+        },
+        {
+          "id": 6,
+          "text": "اللَّهُمَّ أَنْتَ السَّلاَمُ وَمِنْكَ السَّلاَمُ، تَبَارَكْتَ ذَا الْجَلاَلِ وَالإِكْرَامِ.",
+          "translation": "O Allah, You are As-Salam (the One free from all defects and deficiencies) and from You is all peace, blessed are You O possessor of majesty and honour.",
+          "transliteration": "Allahumma antas salam, wa minkas salam, tabarakta ya dhal jalali wal ikram.",
+          "repetitions": 1,
+          "benefit": "Said after giving salaam to conclude the prayer.",
+          "reference": "Muslim 1/414"
+        }
+      ]
+    }
+  ]
+}
